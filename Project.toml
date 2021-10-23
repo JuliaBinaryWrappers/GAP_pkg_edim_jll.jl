@@ -1,6 +1,6 @@
 name = "GAP_pkg_edim_jll"
 uuid = "aa0ab9cb-918b-5ca1-812e-3cecb1c413b6"
-version = "100.300.500+0"
+version = "100.300.500+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
