@@ -2,11 +2,10 @@
 export ediv
 
 using GAP_jll
-using GAP_lib_jll
 JLLWrappers.@generate_wrapper_header("GAP_pkg_edim")
 JLLWrappers.@declare_file_product(ediv)
 function __init__()
-    JLLWrappers.@generate_init_header(GAP_jll, GAP_lib_jll)
+    JLLWrappers.@generate_init_header(GAP_jll)
     JLLWrappers.@init_file_product(
         ediv,
         "lib/gap/ediv.so",

@@ -1,69 +1,86 @@
 [[GAP_pkg_edim]]
 arch = "aarch64"
-git-tree-sha1 = "a4ae66afa07ae72abba221911f6235bb14ea54eb"
+git-tree-sha1 = "3e1da1654fcd3600cfd13c796bb6a9938e6f43b8"
 os = "macos"
 
     [[GAP_pkg_edim.download]]
-    sha256 = "d92d2060d253ba395f6e0251fabdfb4559ebf4de01536bac5fbd8f8bf18bccfb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.801+1/GAP_pkg_edim.v100.300.801.aarch64-apple-darwin.tar.gz"
+    sha256 = "a949020555295d0ced91e15ac32fbc59a3d9813837d10f4fa620923872108095"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_edim]]
 arch = "aarch64"
-git-tree-sha1 = "43fee45c7b6e44522097cdc95a45d28df7141c1d"
+git-tree-sha1 = "64cac6925408ca12c6d44ba0f8cf0c592d435f74"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_edim.download]]
-    sha256 = "0ad421816fcd1f8c5a8ebe9c5d813317bbde5255870bc505ffe96016d791c1eb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.801+1/GAP_pkg_edim.v100.300.801.aarch64-linux-gnu.tar.gz"
+    sha256 = "50abc498ada01c63d28c748809f698ac89f6bee82acf18ae8ffa3a2ba40f49fc"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_edim]]
 arch = "aarch64"
-git-tree-sha1 = "7dcd3e347ed54cb43aa0e9e4d2a811b0a7970115"
+git-tree-sha1 = "32575688a25cf56a1dc6cb2ee60e769144b9cc2f"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_edim.download]]
-    sha256 = "0212ffc6351ca3eabdc615ee13341417d2f6bcc345f466c12f3b176e4ec09dff"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.801+1/GAP_pkg_edim.v100.300.801.aarch64-linux-musl.tar.gz"
+    sha256 = "30416ebff26b34da849b0d1eea1dc6036d1cc143506f73e5fa27612e75483189"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_edim]]
-arch = "powerpc64le"
-git-tree-sha1 = "98101cb761c7f539e1b244ce239683368621d40d"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_edim.download]]
-    sha256 = "d4fcbd2e7ee1a5082498d82786c4e9a59f76222d20aaaf6f8ffb23dd05d1eddf"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.801+1/GAP_pkg_edim.v100.300.801.powerpc64le-linux-gnu.tar.gz"
-[[GAP_pkg_edim]]
-arch = "x86_64"
-git-tree-sha1 = "76c73302a7062674a7eaceca92f6e5f5e3942095"
-os = "macos"
-
-    [[GAP_pkg_edim.download]]
-    sha256 = "d256761eeb729c18e4ca70f1f78014676be853ab40843eaae7426e954dfc7a7d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.801+1/GAP_pkg_edim.v100.300.801.x86_64-apple-darwin.tar.gz"
-[[GAP_pkg_edim]]
-arch = "x86_64"
-git-tree-sha1 = "d11a0d887af5dccd41cee73a507d2cd0382c5390"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_edim.download]]
-    sha256 = "451a1c3a1eab3d9a3a51cd5133ea1d702f51dd497fe2248a5aaf27abeb513bff"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.801+1/GAP_pkg_edim.v100.300.801.x86_64-linux-gnu.tar.gz"
-[[GAP_pkg_edim]]
-arch = "x86_64"
-git-tree-sha1 = "316b8f056fa1bb61f1bbe7b31ac4407bf0224f51"
-libc = "musl"
-os = "linux"
-
-    [[GAP_pkg_edim.download]]
-    sha256 = "6d9729fb893c6f9c737f57812d10c2db0f787be36ffee8fd3053fe2492742c6d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.801+1/GAP_pkg_edim.v100.300.801.x86_64-linux-musl.tar.gz"
-[[GAP_pkg_edim]]
-arch = "x86_64"
-git-tree-sha1 = "7776741f70938a1802f3353b5f0f019057c6ed79"
+arch = "aarch64"
+git-tree-sha1 = "0d2633edffde9cc321a2ed4b5c46446c2abdf64e"
 os = "freebsd"
 
     [[GAP_pkg_edim.download]]
-    sha256 = "db4191f86bc3f1dd2ad23e6f878bfe34d8c4d0f03d9e8dfb426a6ff8dbcb33e5"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.801+1/GAP_pkg_edim.v100.300.801.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f908ef72064786c2892e1bc1e0336122a0f1b08de583a765c65e9ba796fba59a"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_edim]]
+arch = "powerpc64le"
+git-tree-sha1 = "222e8437ee148aae4183221bf5344aaa639510ec"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "afdb3e5a91aebb4bfc27b42b4acb235bd0e997ee4b90b077e3f178847050b1dc"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_edim]]
+arch = "riscv64"
+git-tree-sha1 = "4421d9329162cce25d2bff2baf956a1782ffdfc4"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "2dc0bfe6be3103c0b2fba0295a60ecafb1f01cb80a5f0f7c52a199060e4a2938"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_edim]]
+arch = "x86_64"
+git-tree-sha1 = "f0de3a0d21a3a8316188880a02f9efb24e9c6af6"
+os = "macos"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "1d44378f8ab34c4e919a10217e6f84396fa7dfe0f96f89011baea737614d6554"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_edim]]
+arch = "x86_64"
+git-tree-sha1 = "93467b8f735c3717cb6907b10286d21b5b1d7f83"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "9a252a388c78874c8cfa3f8f37cc8544158b678d9f54ef6338fe31b24a33584d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_edim]]
+arch = "x86_64"
+git-tree-sha1 = "2a868cd0c25d7e9cade5b28e4ac46017c1fa30d3"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "97c19e01d4d7f249a32b92f5fd5ae0eb980c9f2f32140884d22330ebdbf3ad40"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_edim]]
+arch = "x86_64"
+git-tree-sha1 = "471764b01f2cb6eda57cf7999138c4ada78ad841"
+os = "freebsd"
+
+    [[GAP_pkg_edim.download]]
+    sha256 = "0f2753ddb447c03c0bba62f68769c29d9fe34b09f636c02b54fff1c7b8b69caa"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_edim_jll.jl/releases/download/GAP_pkg_edim-v100.300.802+0/GAP_pkg_edim.v100.300.802.x86_64-unknown-freebsd.tar.gz"
